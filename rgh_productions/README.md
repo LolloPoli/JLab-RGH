@@ -1,5 +1,5 @@
 # CLAS12 RGH SIDIS Simulation Studies
-Basic repository for RGH simulation work.
+Basic repository for RGH simulation work made by Matthew McEneaney, from Duke.
 
 # Prerequisites
 You will need the CLAS12 simulation software.
